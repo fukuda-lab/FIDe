@@ -1,0 +1,1 @@
+__always_inline
