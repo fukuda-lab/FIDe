@@ -1,5 +1,5 @@
-# DomeX
-DomeX is a fully in-kernel DDoS detection/mitigation framework that bases off of eBPF and XDP.
+# FIDe
+FIDe is an fully in-kernel anomaly detection/mitigation framework based on eBPF.
 
 fully_in-kernel directory composes the fully in-kernel version, and the user+ebpf directory composes the version that performs traffic analysis in the user space.
 
