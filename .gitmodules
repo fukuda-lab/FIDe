@@ -1,0 +1,6 @@
+[submodule "fully_in-kernel/lib/xdp-tools"]
+	path = fully_in-kernel/lib/xdp-tools
+	url = https://github.com/xdp-project/xdp-tools/
+[submodule "fully_in-kernel/lib/libbpf"]
+	path = fully_in-kernel/lib/libbpf
+	url = https://github.com/libbpf/libbpf/
